@@ -3,7 +3,7 @@ usage: instatags.py [-h] [-i [INFILE]] [-c [CATEGORIES [CATEGORIES ...]]]
                     [-d [DEL_TAGS [DEL_TAGS ...]]]
                     [-p [PLUS_TAGS [PLUS_TAGS ...]]]
 
-Instagram tags ar eessential to getting your post noticed, but they're a pain in the arse.  This command-line tool helps you  manage Instagram tags by category, hopefully making the process a little easier.
+Instagram tags are eessential to growing your followers, but they're a pain in the arse to manage.  Especially on a phone.  This command-line tool helps you  manage Instagram tags by category, hopefully making the process a little easier.
 
 optional arguments:
   -h, --help            show this help message and exit
