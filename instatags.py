@@ -11,6 +11,9 @@ import argparse
 import itertools
 import json
 
+##
+## Update this with the location where the tagfile will live on your machine 
+##
 TAGFILE = '/Users/cmills/Proj/InstaTools/instagram_tags.json'
 
 def main():
